@@ -1,14 +1,21 @@
 # Meu Site
 
-## Este é um Projeto contendo os avanços do meu aprendizando em HTML.
+## Este ï¿½ um Projeto contendo os avanï¿½os do meu aprendizando em HTML do Bootcamp da Digital Innovation One "HTML Web Developer".
+
+10/11/2021
+
+- Adiciona Arquivo CSS
+- Adiciona alguns elementos de estilo e porporÃ§Ã£o ao HTMl
+- Corrige o Bug #1
+
 
 06/11/2021
 
 - Inclui estrutura HTMl
-- Inclui alguns tópicos e textos
-- Adiciona imagem ao cabeçalho e na seção article
-- Adiciona hiperlink que direciona ao email no rodapé.
+- Inclui alguns tï¿½picos e textos
+- Adiciona imagem ao cabeï¿½alho e na seï¿½ï¿½o article
+- Adiciona hiperlink que direciona ao email no rodapï¿½.
 
 ### Bugs existentes
 
-- A imagem adicionada na seção article não carrega. 
+1 - A imagem adicionada na seï¿½ï¿½o article nï¿½o carrega. 
